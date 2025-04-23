@@ -1,2 +1,4 @@
-
+apples
+bananas
+candy
 butter
